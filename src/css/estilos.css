@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Verdana:wght@300;400;800&display=swap");
+
+.cabecalho {
+    background-color: #5569dc; 
+    display: flex;
+    max-width: 100vw;
+    justify-content: center; 
+    align-items: center;
+    flex-wrap: wrap; 
+}
+
+.dp-menu ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: var(#5569dc);
+}
+
+.dp-menu ul li {
+    display: inline;
+    position: relative;
+}
+
+.dp-menu ul li a {
+    color: var(#5569dc);
+    display: inline-block;
+    padding: 15px;
+    transition: background 0.3s;
+    background-color: #5569dc; 
+}
+
+.dp-menu ul li a:hover {
+    background-color: var(#040119cd);
+}
+
+.dp-menu ul ul {
+    display: none;
+    position: absolute;
+}
+
+.dp-menu ul li:hover ul {
+    display: block;
+}
+
+.dp-menu ul ul {
+    width: 150px;
+}
+
+.dp-menu ul ul li a {
+    display: block;
+}
+
+.dp-menu .menu {
+    display: flex;
+    margin: 5px; 
+    padding: 20px; 
+    background-color: #5569dc; 
+}
+
+.dp-menu .menu .item a {
+    padding: 20px; 
+    font-size: 16px;
+    transition: 0.3s ease-in-out;
+    color: #eaf4ee;
+}
+
+.dp-menu .menu .item a:hover {
+    background-color: #5569dc;
+    color: #040119cd;
+}
+
+.conteudo-principal .imagem-painel {
+    justify-content: center; 
+    align-items: center; 
+    display: flex;
+}
+
+.ola-leitor h1 {
+    display: flex;
+    max-width: 100vw; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 28px; 
+    font-size: 23px;
+    margin-left: auto; 
+    margin-right: auto;
+    color: #eaf4ee;
+    
+} 
+
+.ola-leitor p {
+    display: flex;
+    max-width: 100vw;
+    text-align: center;
+    align-items: center;
+    padding: 0 auto;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    color: #eaf4ee;
+    line-height: 2.0;
+}
+
+.rodape {
+    max-width: 100vw;  
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rodape .navegacao {
+    display: flex;                    
+    max-width: 100vw;   
+    gap: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; 
+}
+
+.rodape .redes-sociais {
+    display: flex;
+    max-width: 100vw; 
+    align-items: center;
+    justify-content: center;
+}
+
+.rodape .redes-sociais a {
+    align-items: center;
+    margin: 4px;
+    border: 2px solid #040119cd;
+    padding: 15px;
+    width: 60px;
+    border-radius: 50%;
+    transition: 0.1s ease-in-out;
+    font-size: 23px;
+}
+
+.rodape .redes-sociais a:hover {
+    background-color: #010f05f4;
+}
+
+.rodape .copyright {
+    max-width: 100vw;
+    margin-top: 60px;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    margin: 10px;
+}
+
+.btn-voltar {
+    margin-left: 13px;
+}
+
+body {
+    margin: 13px;
+}
+
+.imagem-painel img {
+    width: 100vw;
+}

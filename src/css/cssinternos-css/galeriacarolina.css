@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+    color: #eaf4ee;
+}
+
+body {
+    background-color: #180c69;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.galeria {
+    margin: 10px 85px;
+}
+
+.galeria img {
+    transition: 0.3s;
+    padding: 20px;
+    width: 430px;
+}
+
+.galeria img:hover {
+    transform: scale(1.1);
+}
+
+
