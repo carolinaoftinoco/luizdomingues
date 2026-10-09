@@ -4,7 +4,7 @@
 
 <p>Nesse site abordo toda a sua carreira até os dias de hoje, juntamente a uma simbólica galeria de artes de minha autoria.</p>
 
-<p>Todas as páginas internas apresentam belas cores, o que reforça ainda mais a alma desse grande artista e escritor, que atualmente é baixista das bandas "Kim Kehl & Os Kurandeiros" e "Boca do Céu".</p>
+<p>Todas as páginas internas apresentam belas cores, o que reforça ainda mais a alma desse grande artista, que atualmente é baixista das bandas "Kim Kehl & Os Kurandeiros" e "Boca do Céu".</p>
 
 **TECNOLOGIAS UTILIZADAS**
 
