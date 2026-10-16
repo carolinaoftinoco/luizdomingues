@@ -25,3 +25,5 @@ Sob constantes atualizações.
 ![luizdomingues](https://github.com/carolinaoftinoco/luizdomingues/blob/main/luizdomingues.gif)
 
 Clique [aqui](https://carolinaoftinoco.github.io/luizdomingues/) para conferir.
+<br>
+
