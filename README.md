@@ -17,7 +17,7 @@
 - JavaScript (com ênfase em Lightbox)
 - Python
 
-**OBSERVAÇÕES**
+**OBSERVAÇÃO**
 
 Sob constantes atualizações.
 <br>
