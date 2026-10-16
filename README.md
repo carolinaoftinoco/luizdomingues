@@ -11,10 +11,15 @@
 - HTML
 - CSS
 
-**LINGUAGEM UTILIZADA**
+**LINGUAGENS UTILIZADAS**
 
 - JavaScript (com ênfase em Lightbox)
+- Python
 <br>
+
+**OBSERVAÇÕES**
+
+Sob constantes atualizações.
 
 ![luizdomingues](https://github.com/carolinaoftinoco/luizdomingues/blob/main/luizdomingues.gif)
 
